@@ -6,8 +6,6 @@ A simple app for getting the ISO string for UTC times using a datetime picker.
 
 ### Usage
 
-It's your standard React application. Startup is the usual:
-
 - `git clone https://github.com/bcaton85/date-picker-to-utc`
 - `cd date-picker-to-utc`
 - `npm start`
